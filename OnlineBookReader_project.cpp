@@ -1,10 +1,3 @@
-// If you don't understand the reason behind something, change it and see
-// E.g. why the system has users_manager as pointer?
-
-// The system has 2 dummy users
-// Admin: username=mostafa and password=111
-// Customer: username=asmaa and password=222
-
 #include<iostream>
 #include<vector>
 #include<ctime>
